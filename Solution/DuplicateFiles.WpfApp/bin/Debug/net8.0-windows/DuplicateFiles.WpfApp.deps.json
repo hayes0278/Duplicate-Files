@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DuplicateFiles.WpfApp/1.0.0": {
+        "runtime": {
+          "DuplicateFiles.WpfApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DuplicateFiles.WpfApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
